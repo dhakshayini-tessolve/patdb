@@ -1,0 +1,1 @@
+/home/dhakshayini/ARM/Arm_Jul24/data/ChipX/patterndb/scan/debug/patch1/data1234_1EPOOR_pJTAG.pat

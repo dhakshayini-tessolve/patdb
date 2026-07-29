@@ -1,0 +1,1 @@
+/home/dhakshayini/ARM/Arm_Jul24/data/ChipX/patterndb/scan/debug/patch0/file2_GO7WW2_pJTAG.pat
